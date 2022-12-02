@@ -1,0 +1,12 @@
+notebook
+torch 
+torchvision 
+torchaudio
+pyYAML
+opencv-python
+pandas
+seaborn
+tqdm
+scipy
+# pycocotools-windows
+# git+https://github.com/facebookresearch/detectron2.git
